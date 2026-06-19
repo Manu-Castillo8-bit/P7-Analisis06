@@ -2,7 +2,6 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
 
         public MainPage()
         {
@@ -11,14 +10,11 @@
 
         private void OnCounterClicked(object? sender, EventArgs e)
         {
-            count++;
+        // Toma el texto de ambos Entry y lo muestra en el Label
+        string nombre = NombreEntry.Text;
+        string apellido = ApellidoEntry.Text;
+        NombreCompletoLabel.Text = $"¡Hola, {nombre} {apellido}!";
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
 }
