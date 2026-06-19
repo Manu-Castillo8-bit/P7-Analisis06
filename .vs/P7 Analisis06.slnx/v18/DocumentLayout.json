@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis06\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B931BAC4-4783-71DE-CEA8-9A6114F056C0}|P7 Analisis06\\P7 Analisis06.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis06\\p7 analisis06\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B931BAC4-4783-71DE-CEA8-9A6114F056C0}|P7 Analisis06\\P7 Analisis06.csproj|solutionrelative:p7 analisis06\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis06\\P7 Analisis06\\MainPage.xaml",
+              "RelativeDocumentMoniker": "P7 Analisis06\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis06\\P7 Analisis06\\MainPage.xaml",
+              "RelativeToolTip": "P7 Analisis06\\MainPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvx4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-19T23:34:50.968Z",
+              "EditorCaption": ""
             }
           ]
         }

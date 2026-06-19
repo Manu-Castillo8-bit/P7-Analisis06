@@ -28,7 +28,7 @@
 
         <!-- Botón para actualizar el Label -->
         <Button Text="Actualizar Nombre" 
-                Clicked="OnActualizarClicked"/>
+                Clicked="OnCounterClicked"/>
 
     </StackLayout>
 </ContentPage>
