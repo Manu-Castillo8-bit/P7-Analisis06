@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P7_Analisis06.MainPage">
@@ -7,7 +7,7 @@
     <StackLayout Padding="30" Spacing="20" VerticalOptions="Center">
 
         <!-- Imagen de perfil -->
-        <Image Source="foto_perfil.png" 
+        <Image Source="manuel.jpeg" 
                HeightRequest="150" WidthRequest="150"
                HorizontalOptions="Center" Aspect="AspectFill"/>
 
